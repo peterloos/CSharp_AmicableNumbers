@@ -4,6 +4,9 @@ class Program
 {
     public static void Main()
     {
+        /*
+         * some test cases
+         */
         AmicableNumbers fn = new AmicableNumbers();
         fn.Start = 1;
         fn.End = 1;
